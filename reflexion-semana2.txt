@@ -1,0 +1,1 @@
+ saber usar la terminal para navegar y organizar archivos es fundamental para un desarrollador por que multiplica la velocidad de trabajo y permite interactuar con las herramientas de programacion que no tienen interfaz grafica
